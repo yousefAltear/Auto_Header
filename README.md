@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/5e57e87b-bc3d-4e18-809b-5f8ef7f1ce56)### Auto Header
+### Auto Header
 ![Auto Header Logo](https://github.com/user-attachments/assets/c3e30f08-fec3-40c9-977e-e78425ee7b3b)
 
 <p align="center">
