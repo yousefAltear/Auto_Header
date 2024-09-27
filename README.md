@@ -4,7 +4,10 @@
 <p align="center">
   Develop a script to automatically set the header parameter of windows and doors based on their width. The script measures the width of each window or door and assigns the appropriate header according to Paradigm code standards, ensuring that the correct structural support is placed for each opening size.
 </p>
-![eqeqeq](https://github.com/user-attachments/assets/1bafa707-5aee-4cba-9ccc-7a8beadf076d)
+
+![eqeqeq](https://github.com/user-attachments/assets/ae1ec7cd-99d0-4218-9b47-af7cd84b2fff)
+
+
 Dynamo Script
 
 ![1](https://github.com/user-attachments/assets/8e673450-d434-423c-81fe-218d8d9ed8c6)
