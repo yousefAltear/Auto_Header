@@ -11,4 +11,4 @@
 Dynamo Script
 
 ![1](https://github.com/user-attachments/assets/8e673450-d434-423c-81fe-218d8d9ed8c6)
-Adjust all Header After Run The Script in one Click
+Adjust all Header after running The Script in one Click.
